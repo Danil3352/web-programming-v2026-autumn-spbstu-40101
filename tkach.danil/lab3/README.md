@@ -19,4 +19,5 @@
 
 ## Запуск
 
-Импортировать именованный export `rotateArray` из файла `solution.js` как ES module.
+Импортировать именованный export `rotateArray` из файла `solution.js` как ES
+module.
